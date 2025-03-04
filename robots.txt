@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://joosk3.github.io/sitemap.xml
+Sitemap: https://joosk3R.github.io/sitemap.xml
